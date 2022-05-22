@@ -1,0 +1,21 @@
+/*  SELECTORS*/
+/* Universal */
+*{
+color: white; 
+}
+/*TAG*/
+body{
+  background-color: gray;
+  
+}
+h1{
+  background-color: purple;
+  border: 5px dashed green;
+  font-size: 40px;
+  /* Espaciado interno */
+  padding:10px;
+}
+/* Id */
+/* Class */
+/* Attribute */
+/* Children */
